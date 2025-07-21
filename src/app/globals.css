@@ -2,15 +2,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
 
 
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: "Montserrat", sans-serif;
-  --font-mono: var(--font-geist-mono);
-}
-
-
 body {
 
   font-family: "Montserrat", sans-serif;
